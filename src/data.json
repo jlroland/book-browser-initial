@@ -1,0 +1,305 @@
+[
+    {
+        "id": "eoGmAwAAQBAJ",
+        "etag": "NV0yRsKC7f0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/eoGmAwAAQBAJ",
+        "volumeInfo": {
+          "title": "Freckle Juice",
+          "authors": [
+            "Judy Blume"
+          ],
+          "description": "Andrew wants freckles so badly that he buys Sharon's freckle recipe for fifty cents.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781481411028"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1481411020"
+            }
+          ],
+          "pageCount": 64,
+          "categories": [
+            "Juvenile Fiction"
+          ],
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=eoGmAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=eoGmAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          }
+        }
+    },
+    {
+      "id": "pD6arNyKyi8C",
+      "etag": "v0WbuYNS8h8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pD6arNyKyi8C",
+      "volumeInfo": {
+        "title": "The Hobbit",
+        "authors": [
+          "J.R.R. Tolkien"
+        ],
+        "description": "A great modern classic and the prelude to The Lord of the Rings. Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum. “A glorious account of a magnificent adventure, filled with suspense and seasoned with a quiet humor that is irresistible . . . All those, young or old, who love a fine adventurous tale, beautifully told, will take The Hobbit to their hearts.” – New York Times Book Review",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780547951973"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0547951973"
+          }
+        ],
+        "pageCount": 288,
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pD6arNyKyi8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pD6arNyKyi8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+      }
+    },
+    {
+        "id": "Ek_-lNfzGUcC",
+            "etag": "QA6k9azrOq4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Ek_-lNfzGUcC",
+            "volumeInfo": {
+                "title": "The Canterbury Tales",
+                "authors": [
+                    "Geoffrey Chaucer"
+                ],
+                "description": "'Now as I've drunk a draught of corn-ripe ale, By God it stands to reason I can strike On some good story that you all will like' In The Canterbury Tales Chaucer created one of the great touchstones of English literature, a masterly collection of chivalric romances, moral allegories and low farce. A story-telling competition within a group of pilgrims from all walks of life is the occasion for a series of tales that range from the Knight's account of courtly love and the ebullient Wife of Bath's Arthurian legend, to the ribald anecdotes of the Miller and the Cook. Rich and diverse, The Canterbury tales offers us an unrivalled glimpse into the life and mind of medieval England. Nevill Coghill's masterly and vivid modern English verse translation is rendered with consummate skill to retain all the vigour and poetry of Chaucer's fourteenth-century Middle English.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0140424385"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780140424386"
+                    }
+                ],
+                "pageCount": 504,
+                "categories": [
+                    "Poetry"
+                ],
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Ek_-lNfzGUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Ek_-lNfzGUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                }
+            }  
+    },
+    {
+        "id": "5NomkK4EV68C",
+        "etag": "UbjS0ipy1zA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/5NomkK4EV68C",
+        "volumeInfo": {
+            "title": "A Game of Thrones",
+            "subtitle": "A Song of Ice and Fire: Book One",
+            "authors": [
+                "George R. R. Martin"
+            ],
+            "description": "NOW THE ACCLAIMED HBO SERIES GAME OF THRONES—THE MASTERPIECE THAT BECAME A CULTURAL PHENOMENON Winter is coming. Such is the stern motto of House Stark, the northernmost of the fiefdoms that owe allegiance to King Robert Baratheon in far-off King’s Landing. There Eddard Stark of Winterfell rules in Robert’s name. There his family dwells in peace and comfort: his proud wife, Catelyn; his sons Robb, Brandon, and Rickon; his daughters Sansa and Arya; and his bastard son, Jon Snow. Far to the north, behind the towering Wall, lie savage Wildings and worse—unnatural things relegated to myth during the centuries-long summer, but proving all too real and all too deadly in the turning of the season. Yet a more immediate threat lurks to the south, where Jon Arryn, the Hand of the King, has died under mysterious circumstances. Now Robert is riding north to Winterfell, bringing his queen, the lovely but cold Cersei, his son, the cruel, vainglorious Prince Joffrey, and the queen’s brothers Jaime and Tyrion of the powerful and wealthy House Lannister—the first a swordsman without equal, the second a dwarf whose stunted stature belies a brilliant mind. All are heading for Winterfell and a fateful encounter that will change the course of kingdoms. Meanwhile, across the Narrow Sea, Prince Viserys, heir of the fallen House Targaryen, which once ruled all of Westeros, schemes to reclaim the throne with an army of barbarian Dothraki—whose loyalty he will purchase in the only coin left to him: his beautiful yet innocent sister, Daenerys.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0553897845"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780553897845"
+                }
+            ],
+            "pageCount": 720,
+            "categories": [
+                "Fiction"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=5NomkK4EV68C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=5NomkK4EV68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    },
+    {
+        "id": "erDXCgAAQBAJ",
+        "etag": "LvGbUMbxTr0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/erDXCgAAQBAJ",
+        "volumeInfo": {
+            "title": "The Big Short: Inside the Doomsday Machine (movie tie-in)",
+            "authors": [
+                "Michael Lewis"
+            ],
+            "description": "The #1 New York Times bestseller—Now a Major Motion Picture from Paramount Pictures From the author of The Blind Side and Moneyball, The Big Short tells the story of four outsiders in the world of high-finance who predict the credit and housing bubble collapse before anyone else. The film adaptation by Adam McKay (Anchorman I and II, The Other Guys) features Academy Award® winners Christian Bale, Brad Pitt, Melissa Leo and Marisa Tomei; Academy Award® nominees Steve Carell and Ryan Gosling. When the crash of the U.S. stock market became public knowledge in the fall of 2008, it was already old news. The real crash, the silent crash, had taken place over the previous year, in bizarre feeder markets where the sun doesn’t shine and the SEC doesn’t dare, or bother, to tread. Who understood the risk inherent in the assumption of ever-rising real estate prices, a risk compounded daily by the creation of those arcane, artificial securities loosely based on piles of doubtful mortgages? In this fitting sequel to Liar’s Poker, Michael Lewis answers that question in a narrative brimming with indignation and dark humor.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780393353167"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0393353168"
+                }
+            ],
+            "pageCount": 320,
+            "categories": [
+                "Business & Economics"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=erDXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=erDXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    },
+    {
+        "id": "AU9YtwAACAAJ",
+        "etag": "2iU5xehHLmM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/AU9YtwAACAAJ",
+        "volumeInfo": {
+            "title": "Fahrenheit 451",
+            "authors": [
+                "Ray Bradbury"
+            ],
+            "description": "A fireman in charge of burning books meets a revolutionary school teacher who dares to read. Depicts a future world in which all printed reading material is burned.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "067187229X"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780671872298"
+                }
+            ],
+            "pageCount": 147,
+            "categories": [
+                "Book burning"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=AU9YtwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=AU9YtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            }
+        }  
+    },
+    {
+        "id": "Coi9AwAAQBAJ",
+        "etag": "iU+9BlKDqyk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Coi9AwAAQBAJ",
+        "volumeInfo": {
+            "title": "The Giver",
+            "authors": [
+                "Lois Lowry"
+            ],
+            "description": "Living in a \"perfect\" world without social ills, a boy approaches the time when he will receive a life assignment from the Elders, but his selection leads him to a mysterious man known as the Giver, who reveals the dark secrets behind the utopian facade.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780544340688"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "054434068X"
+                }
+            ],
+            "pageCount": 240,
+            "categories": [
+                "Juvenile Fiction"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Coi9AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Coi9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    },
+    {
+        "id": "biBRxQmHPLIC",
+        "etag": "mkhJmBFXtds",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/biBRxQmHPLIC",
+        "volumeInfo": {
+            "title": "The Odyssey",
+            "authors": [
+                "Homer"
+            ],
+            "description": "A new translation of the epic poem retells the story of Odysseus's ten-year voyage home to Ithaca after the Trojan War",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0140268863"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780140268867"
+                }
+            ],
+            "pageCount": 541,
+            "categories": [
+                "Poetry"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=biBRxQmHPLIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=biBRxQmHPLIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    },
+    {
+        "id": "Jf_7HiRbQ-IC",
+        "etag": "aJM+dTu7auk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Jf_7HiRbQ-IC",
+        "volumeInfo": {
+            "title": "The Scarlet Letter",
+            "subtitle": "A Romance",
+            "authors": [
+                "Nathaniel Hawthorne"
+            ],
+            "description": "A young woman, publicly scorned for bearing an illegitimate child, refuses to be vanquished by the seventeenth-century Boston community.",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0142437263"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780142437261"
+                }
+            ],
+            "pageCount": 238,
+            "categories": [
+                "Fiction"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=Jf_7HiRbQ-IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=Jf_7HiRbQ-IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    },
+    {
+        "id": "pWyLDQAAQBAJ",
+        "etag": "ujo+TKYWFWw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/pWyLDQAAQBAJ",
+        "volumeInfo": {
+            "title": "Slaughterhouse-five",
+            "subtitle": "Or, The Children's Crusade, a Duty-dance with Death",
+            "authors": [
+                "Kurt Vonnegut"
+            ],
+            "description": "Billy Pilgrim returns home from the Second World War only to be kidnapped by aliens from the planet Tralfamadore, who teach him that time is an eternal present",
+            "industryIdentifiers": [
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780385333849"
+                },
+                {
+                    "type": "ISBN_10",
+                    "identifier": "0385333846"
+                }
+            ],
+            "pageCount": 275,
+            "categories": [
+                "Fiction"
+            ],
+            "imageLinks": {
+                "smallThumbnail": "http://books.google.com/books/content?id=pWyLDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                "thumbnail": "http://books.google.com/books/content?id=pWyLDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            }
+        }
+    }
+]
