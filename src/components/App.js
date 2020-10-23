@@ -36,7 +36,7 @@ class App extends Component {
           <p>Bookmark up to 10 books.</p>
         </header>
         <SearchBooks />
-        <DisplayBooks myBooks={this.state.myBooks}/>
+        <DisplayBooks bookList={this.state.myBooks}/>
       </div>
     )
   } 
