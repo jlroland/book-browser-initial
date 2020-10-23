@@ -2,3 +2,25 @@
   text-align: center;
 }
 
+#search-section {
+  margin: 25px;
+}
+
+input {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+#query-field {
+  width: 40%;
+  padding: 5px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.col-3 img {
+  padding: 10px;
+}
