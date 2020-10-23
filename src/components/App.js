@@ -12,17 +12,18 @@ class App extends Component {
     }
   }
 
+  //need conditional for non-empty myBooks on mounting
   componentDidMount() {
-    fetch('./data.json')
-      .then(response => response.json())
-      .then(result => {
-        const books = result.map(book => {
-          return book;
+      fetch('./data.json')
+        .then(response => response.json())
+        .then(result => {
+          const books = result.map(book => {
+            return book;
+          });
+          this.setState({
+            myBooks: books
+          });
         });
-        this.setState({
-          myBooks: books
-        });
-      });
   }
 
   render () {
