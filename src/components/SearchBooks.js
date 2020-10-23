@@ -42,7 +42,7 @@ class SearchBooks extends Component {
 
     render () {
         return (
-            <div id="search-section">
+            <div className="border-bottom border-dark" id="search-section">
                 <form id="book-search-form" onSubmit={this.handleSubmit}>
                     <div>
                         <input type="text" id="query-field" value={this.state.query} placeholder="Enter title or author" onChange={this.queryChange}></input>
@@ -55,7 +55,7 @@ class SearchBooks extends Component {
                         <button type="submit">Search</button>
                     </div>
                 </form>
-                <div>
+                <div id="display-results">
                     <DisplayBooks bookList={this.state.searchResults} />
                 </div>
             </div>

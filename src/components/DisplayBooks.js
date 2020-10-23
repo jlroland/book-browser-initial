@@ -6,16 +6,16 @@ class DisplayBooks extends Component {
     render () {
         
         return (
-            <div className="book-list container-fluid">
-                <div className="row">
-                    {this.props.bookList.map(book => (
-                        <div key={book.volumeInfo.industryIdentifiers[0].identifier} className="col-3">
-                            <img src={book.volumeInfo.imageLinks.smallThumbnail} alt="Book cover"/>
-                            <h3>{book.volumeInfo.title}</h3>
-                            <p>{book.volumeInfo.authors}</p>
+            <div className="container-fluid book-list">
+                        <div className="row">
+                            {this.props.bookList.map(book => (
+                                <div key={book.volumeInfo.industryIdentifiers[0].identifier} className="col-3 border border-dark">
+                                    <img src={book.volumeInfo.imageLinks.smallThumbnail} alt="Book cover"/>
+                                    <h3>{book.volumeInfo.title}</h3>
+                                    <p>{book.volumeInfo.authors}</p>
+                                </div>
+                            ))}
                         </div>
-                    ))}
-                </div>
             </div>
         );
     }
