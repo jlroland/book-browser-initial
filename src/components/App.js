@@ -33,7 +33,7 @@ class App extends Component {
         <header>
           <h1>Welcome to Book Browser</h1>
           <p>Search for books by title or author.</p>
-          <p>Bookmark up to 10 books.</p>
+          <p>Add up to 10 books to the bookshelf.</p>
         </header>
         <SearchBooks />
         <DisplayBooks bookList={this.state.myBooks}/>

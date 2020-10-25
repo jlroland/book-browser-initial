@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import DisplayBooks from './DisplayBooks'
+import SearchResults from './SearchResults'
 
 class SearchBooks extends Component {
 
@@ -42,7 +42,7 @@ class SearchBooks extends Component {
 
     render () {
         return (
-            <div className="border-bottom border-dark" id="search-section">
+            <div className="border-bottom border-light" id="search-section">
                 <form id="book-search-form" onSubmit={this.handleSubmit}>
                     <div>
                         <input type="text" id="query-field" value={this.state.query} placeholder="Enter title or author" onChange={this.queryChange}></input>
@@ -56,7 +56,7 @@ class SearchBooks extends Component {
                     </div>
                 </form>
                 <div id="display-results">
-                    <DisplayBooks bookList={this.state.searchResults} />
+                    <SearchResults bookList={this.state.returnedBooks}/>
                 </div>
             </div>
         )
