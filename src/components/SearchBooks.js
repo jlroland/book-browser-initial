@@ -7,6 +7,7 @@ class SearchBooks extends Component {
         super();
         this.state = {
           searchResults: [],
+          searchType: '',
           query: ''
         };
 
@@ -56,7 +57,7 @@ class SearchBooks extends Component {
                     </div>
                 </form>
                 <div id="display-results">
-                    <SearchResults bookList={this.state.returnedBooks}/>
+                    <SearchResults bookList={this.state.searchResults}/>
                 </div>
             </div>
         )
