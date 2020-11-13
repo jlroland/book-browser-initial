@@ -32,8 +32,8 @@ class App extends Component {
       <div className="App">
         <header>
           <h1>Welcome to Book Browser</h1>
-          <p>Search for books by title or author.</p>
-          <p>Add up to 10 books to the bookshelf.</p>
+          <p>Search for books by title or author</p>
+          <p>Hover over book to view details or add to the collection</p>
         </header>
         <SearchBooks />
         <DisplayBooks bookList={this.state.myBooks}/>
