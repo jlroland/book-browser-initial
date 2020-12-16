@@ -16,8 +16,8 @@ class SearchResults extends Component {
                                 </div>
                                 <div className="card-back">
                                     <h3>{book.volumeInfo.title}</h3>
-                                    <p>{book.volumeInfo.description ? book.volumeInfo.description : 'No description available'}</p>
-                                    <button>Add to bookshelf</button> 
+                                    <p className="description">{book.volumeInfo.description ? book.volumeInfo.description : 'No description available'}</p>
+                                    {/* <button>Add to bookshelf</button>  */}
                                 </div>
                             </div> 
                         </div>

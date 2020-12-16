@@ -8,7 +8,8 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      myBooks: []
+      myBooks: [],
+      addedBooks: []
     }
   }
 
@@ -36,7 +37,7 @@ class App extends Component {
           <p>Hover over book to view details or add to the collection</p>
         </header>
         <SearchBooks />
-        <DisplayBooks bookList={this.state.myBooks}/>
+        <DisplayBooks bookList={this.state.myBooks.concat(this.state.addedBooks)}/>
       </div>
     )
   } 

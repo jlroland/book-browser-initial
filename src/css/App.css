@@ -71,6 +71,7 @@ button {
 
 .card-flip > div {
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   transition: transform 300ms;
   transition-timing-function: linear;
   width: 100%;
@@ -87,6 +88,8 @@ button {
   transform: rotateY(180deg);
   position: absolute;
   top: 0;
+  opacity: .99;
+  /*  opacity fixes Chrome bug related to backface-visibility & overflow values */
 }
 
 .card-flip:hover .card-front {
@@ -95,4 +98,10 @@ button {
   
 .card-flip:hover .card-back {
   transform: rotateY(0deg);
+}
+
+.description {
+  width: 90%;
+  height: 80%;
+  overflow: scroll;
 }
